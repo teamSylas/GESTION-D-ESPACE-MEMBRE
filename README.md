@@ -1,4 +1,14 @@
 # Description du code source de l'espace membre 
+
+Cette application permet de : 
+1. S’inscrire et réservoir l’activation de son compte pas mail 
+2. Se connecter et se déconnecter de son espace 
+3. Contrôle de validation l’or de l’inscription et l’or de l’oublie  des mots de passe 
+4. Modifier son mot de passe avec un lien reçu par mail  
+5. Possibilité de cocher une case pour se garder en souvenir 
+6. Notification visuelle à chaque action 
+
+
 ## Technologie utilisée était : 
 > - php
 > - HTML
